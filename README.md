@@ -25,13 +25,13 @@ O **CRUD_PHP** é uma aplicação simples para cadastro de usuários com nome, s
 ## 🧪 Como rodar o projeto localmente
 
 
-### 1. Instale o XAMPP (https://www.apachefriends.org/)
-### 2. Inicie os serviços Apache e MySQL
-### 3. Clone o repositório na pasta htdocs do XAMPP
-git clone https://github.com/DaviGoncalvesMota/CRUD_PHP.git
+##### 1. Instale o XAMPP (https://www.apachefriends.org/)
+##### 2. Inicie os serviços Apache e MySQL
+##### 3. Clone o repositório na pasta htdocs do XAMPP
+###### git clone https://github.com/DaviGoncalvesMota/CRUD_PHP.git
 
-### 4. Acesse o PhpMyAdmin: http://localhost/phpmyadmin
-### 5. Crie um banco de dados e importe o arquivo .sql incluído no projeto
+##### 4. Acesse o PhpMyAdmin: http://localhost/phpmyadmin
+##### 5. Crie um banco de dados e importe o arquivo .sql incluído no projeto
 
-### 6. Acesse no navegador:
-http://localhost/CRUD_PHP/adicionar.html
+##### 6. Acesse no navegador:
+###### http://localhost/CRUD_PHP/adicionar.html
